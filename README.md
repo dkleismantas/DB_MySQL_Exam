@@ -1,4 +1,4 @@
-#
+# Database queries and database design Exam
 
 # Technologies used
 
