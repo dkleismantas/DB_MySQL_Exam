@@ -1,8 +1,9 @@
 # Database queries and database design Exam
-
+## Score: 9 / 10
 # Technologies used
 
-- Docker, MySQL Workbench
+- Docker
+- MySQL Workbench
 
 # How to run the assignments
 
@@ -37,3 +38,4 @@
 
 - You can also see the designed database for the second task in the image located in the second task’s folder.
 - The file mokyklos_kleismantas2.mwb was created at home after the exam to further improve DB design skills.
+- The tasks are not necessarily completed correctly. There are many different ways to solve them, and here the simplest and most basic methods are used.
